@@ -1,0 +1,56 @@
+.label {
+    border-radius: 0.25rem;
+    padding:       1px 7px;
+    height:        18px;
+    display:       inline-block;
+    font:          normal bold 12px/18px "Segoe UI", sans-serif;
+    text-align:    center;
+}
+
+.eprint {
+    background: #0a60af;
+    color: #fefefe;
+}
+
+.arxiv {
+    background: #b31b1b;
+    color: #fefefe;
+}
+
+.ccs {
+    background: #b4c4d4;
+    color: #043f64;
+}
+
+.springer {
+    background: #c2c2c2;
+    color: #aa152d;
+}
+
+.slides {
+    background: #b7472a;
+    color: #fefefe;
+}
+
+.code {
+    background: #554488;
+    color: #fefefe;
+}
+
+.fall {
+    background: #a2242F;
+    color: #dc793e;
+}
+
+.spring {
+    background: #00a170;
+    color: #f5df4d;
+}
+
+#purp {
+    color:  #9966cc;
+}
+
+#purp:hover {
+    color: #ad93c7;
+}
